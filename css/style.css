@@ -13,9 +13,6 @@
     border-radius: 5px;
 }
 
-
-
-
 img {
     max-width: 100%;
     height: auto;
@@ -35,20 +32,16 @@ img {
 }
 
 @media only screen and (min-width:200px) and (max-width:767px){
-    #about {
-        /* background: #17a2b8; */
+    #about {   
         padding: 25px;
     }
 
     .list-unstyled, .h3_center, .footer-logo {
-        /* background: #17a2b8; */
-        text-align: center;
-        /* border: 3px solid green; */ 
+        text-align: center;       
     }
 
     .footer-logo {
         padding-bottom: 25px;
     }
 
-    
 }
